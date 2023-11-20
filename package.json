@@ -1,0 +1,15 @@
+{
+  "name": "superheronamegenerator",
+  "version": "1.0.0",
+  "description": "Generating Super Heroes names",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel Oliveira",
+  "license": "ISC",
+  "dependencies": {
+    "superheroes": "^3.0.0"
+  }
+}
